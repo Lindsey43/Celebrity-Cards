@@ -1,0 +1,31 @@
+@charset 'utf-8';
+
+
+header h1{
+    font-size: 3rem;
+    color: #3399CC;
+}
+
+.cardwrapper{
+display: table;
+table-layout: fixed;
+}
+
+.Maincard{
+
+
+
+}
+
+.imageHolder img{
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+    width: 300px;
+}
+
+.cardContainer{
+padding: 20px;
+ text-align: center;   
+}
+/* -- fix for angular ui-bootstrap to handle empty href values properly --  */
+.nav, .pagination, .carousel, .panel-title a { cursor: pointer; }

@@ -1,0 +1,19 @@
+<main>
+    <div class="cardwrapper row">
+
+        <div class="cardDeck col-xs-6 col-lg-4" ng-repeat="item in allData.items">
+            <div class="Maincard">
+                <div class+="imageholder">
+                    <img class="center-block" ng-src="img/{{ item.image }}.jpg" alt="{{ item.full_name }} photo">
+                    <div class="cardContainer">
+                        <h2>{{item.name}}</h2>
+                        <p>{{item.desc}}</p>
+                        <p><a class="btn btn-default" href="#/details/{{item.id}}" role="button">View details &raquo;</a></p>
+                    </div>
+                </div>
+            </div>
+            <!--/.col-xs-6.col-lg-4-->
+
+        </div>
+        <!--/row-->
+</main>
