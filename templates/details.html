@@ -1,0 +1,15 @@
+<main>
+
+<div class="row">
+    <div class="jumbotron">
+     <img  class="jumbotron center-block" ng-src="img/{{ item.image }}.jpg" alt="{{ item.full_name }} photo">
+         <h2>Details for: {{item.full_name}}</h2>      <!-- Full name of the person -->
+          <h4>Famous Movies: {{item.famous_movies}}</h4> <!-- famous movies -->
+          <h4>Age: {{item.age}} year old</h4>  <!-- age(how old the person is) -->
+          <h4>Income:{{item.salary | currency}}</h4> <!-- price -->
+    </div>
+</div>
+<div class="row">
+    <a href="#/" class="btn btn-primary btn-lg">Back to List</a>
+</div>
+</main>

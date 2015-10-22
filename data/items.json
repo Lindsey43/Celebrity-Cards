@@ -1,0 +1,114 @@
+{
+  "items" : [
+    {   "id":1,
+        "full_name":"Ellen Pompeo",
+        "age": 40,
+        "famous_movies":"Catch Me If You Can",
+        "salary":1000000,
+        "image":"ellen pompeo"
+
+    },
+
+    {
+        "id":2,
+        "full_name":"Ellen Degeneres",
+        "age": 50,
+        "famous_movies":"The Ellen Degeneres Show",
+        "salary":20000000,
+        "image":"ellen degeneres"
+
+    },
+
+     {
+        "id":3,
+        "full_name":"Viola Davis",
+        "age": 40,
+        "famous_movies":"The Help",
+        "salary":1200000,
+        "image":"viola davis"
+
+    },
+    {
+        "id":4,
+        "full_name":"Halle Berry",
+        "age": 40,
+        "famous_movies":"X-Men",
+        "salary":1000000,
+        "image":"halle berry"
+
+    },
+   {
+        "id":5,
+        "full_name":"Jack Nicholson",
+        "age": 40,
+        "famous_movies":"The Bucket List",
+        "salary":1000000,
+        "image":"jack nicholson"
+
+    },
+    {
+        "id":6,
+        "full_name":"Jennifer Lopez",
+        "age": 40,
+        "famous_movies":"Maid in Manhattan",
+        "salary":1000000,
+        "image":"jennifer lopez"
+
+    },
+    {
+        "id":7,
+        "full_name":"John Travolta",
+        "age": 40,
+        "famous_movies":"Grease",
+        "salary":1000000,
+        "image":"john travolta"
+
+    },
+    {
+        "id":8,
+        "full_name":"Kate Winslet",
+        "age": 40,
+        "famous_movies":"Labour Day",
+        "salary":1000000,
+        "image":"kate winslet"
+
+    },
+    {
+        "id":9,
+        "full_name":"Tom Cruise",
+        "age": 40,
+        "famous_movies":"Edge of Tomorrow",
+        "salary":1000000,
+        "image":"tom cruise"
+
+    },
+    {
+        "id":10,
+        "full_name":"Oprah Winfrey",
+        "age": 40,
+        "famous_movies":"Selma",
+        "salary":1000000,
+        "image":"oprah winfrey"
+
+    },
+    {
+        "id":11,
+        "full_name":"Ryan Seacrest",
+        "age": 40,
+        "famous_movies":"Shrek Forever After",
+        "salary":1000000,
+        "image":"ryan seacrest"
+
+    },
+    {
+
+        "id":12,
+        "full_name":"Kourtney Kardashian",
+        "age": 36,
+        "famous_movies":"Keeping up with the Kardashians",
+        "salary":1000000,
+        "image":"kourtney kardashian"
+
+    }
+  ]
+}
